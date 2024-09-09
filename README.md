@@ -3,4 +3,5 @@
 # please, ensure to follow below instructions
 # add or update when need be
 # practice makes perfect
-# second update to the file
+# always make sure to push back code to scm
+# check branch before making a commit
