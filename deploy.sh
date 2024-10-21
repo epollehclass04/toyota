@@ -11,3 +11,5 @@ sleep 5
 echo 'sanity checks look good'
 date 
 looks like everything went successfully
+code is ready for deployment
+date
